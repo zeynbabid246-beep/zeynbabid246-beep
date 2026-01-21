@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi there 👋<br><br>I’m Zaineb, an AI and software engineering student.<br><br>🔭 Working on: small AI and Python projects<br>🤝 Open to collaborate on: beginner-friendly ML projects<br>🌱 Learning: machine learning + deep learning basics<br>💬 Ask me about: Python, AI learning tips, ML<br>⚡ Fun fact:Coffee.initialize() must be called first<br>🌍 Based in: Tunisia 🇹🇳
+Hi there 👋<br><br>I’m Zaineb, an AI and software engineering student.<br><br>🔭 Working on: small AI and Python projects<br>🤝 Open to collaborate on: beginner-friendly ML projects<br>🌱 Learning: machine learning + deep learning basics<br>💬 Ask me about: Python, AI learning tips, ML<br>⚡ Fun fact: Coffee.initialize() must be called first<br>🌍 Based in: Tunisia 🇹🇳
 
 
 ## 🌐 Socials:
