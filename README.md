@@ -4,26 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Python+Developer;Coffee-Powered+Coder+%E2%98%95" alt="Typing SVG" />
 
-```python
-class Zaineb:
-    def __init__(self):
-        self.name = "Zaineb Abid"
-        self.location = "Tunisia 🇹🇳"
-        self.role = "AI & Software Engineering Student"
-        self.coffee_level = float('inf')  # Always high!
-        
-    def current_focus(self):
-        return {
-            "learning": ["Machine Learning", "Deep Learning", "Neural Networks"],
-            "building": ["Small AI projects", "Python applications"],
-            "exploring": ["Computer Vision", "NLP", "Data Science"]
-        }
-    
-    def say_hi(self):
-        print("Hey there! Let's build something amazing together 🚀")
+### 👋 Hi, I'm Zaineb!
 
-me = Zaineb()
-me.say_hi()
+**AI & Software Engineering Student** based in **Tunisia** 🇹🇳
+
+I'm passionate about exploring the fascinating world of **Machine Learning** and **Artificial Intelligence**. Currently diving deep into neural networks, building small AI projects, and constantly learning new ways to make machines smarter!
+
+```
+🧠 Learning:  Machine Learning • Deep Learning • Neural Networks
+💻 Building:  AI Projects • Python Applications  
+🔍 Exploring: Computer Vision • NLP • Data Science
 ```
 
 </div>
