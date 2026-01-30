@@ -1,21 +1,139 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-Hi there 👋<br><br>I’m Zaineb, an AI and software engineering student.<br><br>🔭 Working on: small AI and Python projects<br>🤝 Open to collaborate on: beginner-friendly ML projects<br>🌱 Learning: machine learning + deep learning basics<br>💬 Ask me about: Python, AI learning tips, ML<br>⚡ Fun fact: Coffee.initialize() must be called first<br>🌍 Based in: Tunisia 🇹🇳
+# 🌟 Welcome to Zaineb's AI Universe 🌟
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Python+Developer;Coffee-Powered+Coder+%E2%98%95" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynb-abid-099453300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeynbabid246@gmail.com) 
+```python
+class Zaineb:
+    def __init__(self):
+        self.name = "Zaineb Abid"
+        self.location = "Tunisia 🇹🇳"
+        self.role = "AI & Software Engineering Student"
+        self.coffee_level = float('inf')  # Always high!
+        
+    def current_focus(self):
+        return {
+            "learning": ["Machine Learning", "Deep Learning", "Neural Networks"],
+            "building": ["Small AI projects", "Python applications"],
+            "exploring": ["Computer Vision", "NLP", "Data Science"]
+        }
+    
+    def say_hi(self):
+        print("Hey there! Let's build something amazing together 🚀")
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+me = Zaineb()
+me.say_hi()
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeynbabid246-beep&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I'm Up To
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently Working On
+- 🤖 Small AI & Python projects
+- 📊 Data analysis experiments
+- 🧠 ML model implementations
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+- 🎓 Machine Learning fundamentals
+- 🔥 Deep Learning architectures
+- 📈 Advanced Python techniques
+
+</td>
+</tr>
+</table>
+
+### 🤝 Let's Collaborate!
+I'm **actively looking** to collaborate on beginner-friendly ML projects! If you're working on something cool or want to start a project together, hit me up! 💡
+
+### 💬 Ask Me About
+`Python` • `AI Learning Journey` • `ML Basics` • `Study Resources` • `Project Ideas`
+
+---
+
+## 🛠️ My Tech Toolbox
+
+### Languages & Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### AI/ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynb-abid-099453300)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynbabid246@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeynbabid246-beep)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Fun Fact
+
+```javascript
+while(alive) {
+    eat();
+    sleep();
+    Coffee.initialize(); // ☕ Critical system requirement!
+    code();
+    repeat();
+}
+```
+
+### 💭 Developer Wisdom of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 👀 Profile Views
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=zeynbabid246-beep&icon=5&color=6)
+
+<br>
+
+*"The best way to predict the future is to create it."* 🚀
+
+**Made with 💜 and lots of ☕**
+
+</div>
