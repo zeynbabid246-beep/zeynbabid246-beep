@@ -126,10 +126,6 @@ while(alive) {
 
 ---
 
-### 👀 Profile Views
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=zeynbabid246-beep&icon=5&color=6)
-
 <br>
 
 *"The best way to predict the future is to create it."* 🚀
